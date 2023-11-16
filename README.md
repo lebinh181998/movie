@@ -11,4 +11,4 @@ A website used to view poster, trailer of movies.
 - Open cmd and find path to project folder.
 - Run "npm install" at `backend`and `frontend` folder.
 ## DEPLOYMENT GUIDE
-- Change the url to http://localhost:5000 in a few file and `use-input` file in `hooks` folder.
+- Change the url to http://localhost:5000 in a few file and `use-http` file in `hooks` folder.
